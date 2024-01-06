@@ -3,3 +3,6 @@
 
 # 繁體中文(Traditional Chinese)
 ## [順德科技扶持成割韭菜 房租補貼變高利貸(上)](https://github.com/baiesl/InnovationPredicament/blob/main/README.ZH-HK.md)
+
+# Media Contact
+## sdcsmedia@proton.me
